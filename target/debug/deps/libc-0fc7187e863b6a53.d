@@ -1,0 +1,11 @@
+C:\Users\visha\Desktop\Rust_Projects_Vishal\Rust_Async_Req\Rust_Async_Request\target\debug\deps\libc-0fc7187e863b6a53.rmeta: C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\lib.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\macros.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\fixed_width_ints.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\windows\mod.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\windows\msvc\mod.rs
+
+C:\Users\visha\Desktop\Rust_Projects_Vishal\Rust_Async_Req\Rust_Async_Request\target\debug\deps\liblibc-0fc7187e863b6a53.rlib: C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\lib.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\macros.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\fixed_width_ints.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\windows\mod.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\windows\msvc\mod.rs
+
+C:\Users\visha\Desktop\Rust_Projects_Vishal\Rust_Async_Req\Rust_Async_Request\target\debug\deps\libc-0fc7187e863b6a53.d: C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\lib.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\macros.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\fixed_width_ints.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\windows\mod.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\windows\msvc\mod.rs
+
+C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\lib.rs:
+C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\macros.rs:
+C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\fixed_width_ints.rs:
+C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\windows\mod.rs:
+C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\windows\msvc\mod.rs:
